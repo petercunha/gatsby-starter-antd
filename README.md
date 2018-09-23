@@ -38,7 +38,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     ```sh
     cd my-website/
     npm install
-    gatsby develop
+    npm run develop
     ```
 
 4.  **Open the source code and start editing!**
