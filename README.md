@@ -9,6 +9,8 @@
 
 Kick off your project with this awesome Ant Design UI boilerplate. This starter ships with the main Gatsby configuration files you might need, along with built in support for the excellent Ant Design React library. 
 
+**You can see a demo here**: https://gatsby-ant.surge.sh
+
 _Want a different boilerplate? You may want to check out the [official and community-created starters](https://next.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
