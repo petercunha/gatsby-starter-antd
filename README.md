@@ -7,9 +7,9 @@
   Gatsby Ant Design starter
 </h1>
 
-Kick off your project with this default boilerplate. This barebones starter ships with the main Gatsby configuration files you might need. 
+Kick off your project with this awesome Ant Design UI boilerplate. This starter ships with the main Gatsby configuration files you might need, along with built in support for the excellent Ant Design React library. 
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://next.gatsbyjs.org/docs/gatsby-starters/)._
+_Want a different boilerplate? You may want to check out the [official and community-created starters](https://next.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
