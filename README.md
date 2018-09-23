@@ -27,7 +27,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Use the Gatsby CLI to create a new site, specifying the default starter.
 
     ```sh
-    # create a new Gatsby site using the default starter
+    # create a new Gatsby site using this starter
     gatsby new my-website https://github.com/petercunha/gatsby-starter-antd
     ```
 
